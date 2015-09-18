@@ -41,7 +41,7 @@ Attribute VB_Exposed = False
 Dim con As Connection
 Dim rs As Recordset
 
-
+'Design as Tutorial for BCA Students - Nitin Deepak
 Private Sub cmdSubmit_Click()
     Set con = New Connection
     Set rs = New Recordset
