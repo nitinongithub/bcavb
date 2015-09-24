@@ -2,4 +2,4 @@
  style="border: #808080 dotted 1px; padding: 30px; font-family: Arial; background: #f0f0f0"
   style="font-size: 35px; font-family: Arial"
    style="height: 30px"
-    style="width: 80px; padding: 5px" 
+    style="width: 80px; padding: 5px 9px 10px 10px" 
