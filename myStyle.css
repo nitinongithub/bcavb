@@ -1,0 +1,36 @@
+.sep_rows{ 
+	height: 10px 
+}
+.inc_sep{
+	height: 20px;
+}
+h3{
+	font-family: Verdana; 
+	color: #009000; 
+	background: #f0f0f0; 
+	width: 300px; 
+	padding: 10px
+}
+.signature{
+	font-family: Verdana; 
+	color: #009000; 
+	background: #f0f0f0; 
+	padding: 10px
+}
+#my_table{ 
+	border: #808080 dotted 1px; 
+	padding: 30px; 
+	font-family: Arial; 
+	background: #f0f0f0
+}
+a{
+	font-size: 11px;
+	padding: 10px;
+	color: #ff0000;
+	background: #ffff00;
+}
+a:hover{
+	color: #ffff00;
+	background: #ff0000;
+	font-size: 15px;
+}

@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form Form1 
    Caption         =   "Form1"
    ClientHeight    =   4290
-   ClientLeft      =   7830
+   ClientLeft      =   8490
    ClientTop       =   3720
    ClientWidth     =   4065
    LinkTopic       =   "Form1"
@@ -77,5 +77,5 @@ End Function
 
 Private Sub Form_Load()
     fillList
-    txtName.Text = ""
+    'txtName.Text = ""
 End Sub
